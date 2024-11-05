@@ -1,3 +1,3 @@
 # GIT
 
-a version controll system.
+A version controll system.
